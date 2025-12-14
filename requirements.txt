@@ -1,4 +1,7 @@
 langchain
 langchain_openai
+langchain-text-splitters
 python-dotenv
 grandalf
+pypdf
+jq
