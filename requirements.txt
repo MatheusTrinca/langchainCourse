@@ -1,8 +1,12 @@
 langchain
 langchain_openai
+langchain_community
 langchain-text-splitters
 python-dotenv
 grandalf
 pypdf
 jq
 langchain_google_genai
+chromadb
+langchain-chroma
+faiss-cpu
