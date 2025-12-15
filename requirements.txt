@@ -10,3 +10,4 @@ langchain_google_genai
 chromadb
 langchain-chroma
 faiss-cpu
+rank_bm25
